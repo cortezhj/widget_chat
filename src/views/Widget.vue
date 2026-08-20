@@ -25,7 +25,7 @@
         </div>
         <div class="flex w-full justify-content-end">
             <div @click="toggle" class="bg-white hover:surface-100 border-circle p-2 shadow user cursor-pointer">
-                <Image src="https://mind-lab.ai/wp-content/uploads/2024/07/Claude-1-jpeg.webp" alt="user" height="45" width="45" class="flex border-circle overflow-hidden" />
+                <Image src="#" alt="user" height="45" width="45" class="flex border-circle overflow-hidden" />
             </div>
         </div>
     </div>
